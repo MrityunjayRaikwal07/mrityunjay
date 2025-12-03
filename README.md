@@ -1,3 +1,3 @@
 # mrityunjay
 this is my first  git repository
-night
+night  author mrityunjay
